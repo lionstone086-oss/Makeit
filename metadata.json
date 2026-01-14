@@ -1,0 +1,8 @@
+{
+  "name": "MORE Skills Platform v2.0",
+  "description": "Production-grade digital platform for skills tracking, portfolio management, and AI-powered learning.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
